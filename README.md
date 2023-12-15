@@ -1,0 +1,1 @@
+This is the Titanic dataset provided by Kaggle and arranged for entry into the label competition. A new thing here is how to predict whether a passenger will survive using only one input "PassengerID".
